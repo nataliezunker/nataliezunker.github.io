@@ -6,3 +6,8 @@ selector{
 	
 }
 */
+
+body{
+	background-image: url("file:///Users/natalie/Desktop/Screen%20Shot%202015-12-01%20at%203.36.46%20PM.png");
+	background-repeat:repeat;
+}
