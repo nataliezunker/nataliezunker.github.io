@@ -12,3 +12,6 @@ body{
 	background-repeat:repeat;
 }
 
+form {
+    display: inline;
+}
