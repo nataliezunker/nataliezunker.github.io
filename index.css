@@ -22,3 +22,37 @@ body{
 form {
     display: inline;
 }
+/*
+CSS: element, id, class
+selector{
+	property:value;
+	
+}
+*/
+head{
+	color:black;
+	font: arial;
+	
+/*
+CSS: element, id, class
+selector{
+	property:value;
+	
+}
+*/
+head{
+	color:black;
+	font: arial;
+	
+	
+}
+body{
+	color:black;
+	font: arial;
+	background-image: url("http://static.tumblr.com/e68ea79009e56d9af6735accbecc598a/zbx9zde/zaOnmu8pt/tumblr_static_7xodf8022m80gc0koock0ckgc.jpg");
+	background-repeat:repeat;
+}
+
+form {
+    display: inline;
+}	
